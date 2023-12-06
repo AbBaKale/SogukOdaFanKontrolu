@@ -19,3 +19,6 @@ Soğuk Oda Fan Kontrolü LAD ve SCL dili ile
 ![SCLFunc3](scl3.PNG)
 ### Network 4
 ![SCLFunc4](scl4.PNG)
+
+# License
+[MIT License](./LICENSE)
